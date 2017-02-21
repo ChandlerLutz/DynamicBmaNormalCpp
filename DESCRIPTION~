@@ -1,0 +1,14 @@
+Package: DynamicBmaNormalCpp
+Type: Package
+Title: What the package does (short line)
+Version: 0.0.0.9000
+Date: 2017-02-21
+Author: Chandler Lutz
+Maintainer: Chandler Lutz <chandler.lutz@gmail.com>
+Description: DynamicBmaNormalCpp implements the Dynamic Bayesian Model technique
+    of Rafterey et al. (2005) for the normal distribution using C++.
+License: GPL-2
+Imports:
+    Rcpp (>= 0.12.8)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 5.0.1
